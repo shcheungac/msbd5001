@@ -1,2 +1,2 @@
 # msbd5001
-MSBD 5001
+This github is mainly used for studying purpose in BDT program.
